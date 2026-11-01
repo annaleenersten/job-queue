@@ -1,4 +1,4 @@
-# Distributed Job Queue
+# Job Processing System
 
 A job queue system built in C that accepts jobs through an HTTP server, queues them for processing, and executes multiple jobs concurrently using a pool of background workers.
 
